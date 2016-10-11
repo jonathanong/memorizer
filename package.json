@@ -12,7 +12,7 @@
   "repository": "jonathanong/memorizer",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^2.3.4",
+    "mocha": "^3.1.2",
     "istanbul": "0"
   },
   "scripts": {
